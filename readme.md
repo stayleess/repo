@@ -9,3 +9,7 @@ Ja sam Stevica Markovic.
 Watch YT!
 
 remote to localy
+
+### Local development
+
+Open index.html in ypur browser
